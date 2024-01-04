@@ -19,3 +19,6 @@ https://pantomatrix.github.io/BEAT/
 
 ### 🖼 Output
 
+Thanks to https://github.com/lo-th/olympe ❤ https://lo-th.github.io/olympe/BVH_player.html (Online BVH Viewer)
+
+https://github.com/camenduru/BEAT-colab/assets/54370274/2f6ec46a-dee9-443e-90fd-796cfbe81bf9
